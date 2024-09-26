@@ -1091,8 +1091,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #982dfd !important;
-  border-color: #982dfd !important;
+  background-color: #007cc4 !important;
+  border-color: #007cc4 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -1100,9 +1100,9 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #982dfd !important;
-  border-color: #982dfd !important;
-  box-shadow: #982dfd 2px 2px 20px 0px;
+  background-color: #007cc4 !important;
+  border-color: #007cc4 !important;
+  box-shadow: #007cc4 2px 2px 20px 0px;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
@@ -1270,7 +1270,7 @@ body {
 .btn-secondary-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #982dfd;
+  color: #007cc4;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -1284,8 +1284,8 @@ body {
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #982dfd !important;
-  border-color: #982dfd !important;
+  background-color: #007cc4 !important;
+  border-color: #007cc4 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -1600,7 +1600,7 @@ blockquote {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #982dfd !important;
+  background: #007cc4 !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -2106,7 +2106,7 @@ a {
 #custom-html-5 .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -2241,7 +2241,7 @@ a {
 .cid-ul5Lr6VIel .mbr-iconfont {
   display: block;
   font-size: 2.5rem;
-  color: #982dfd;
+  color: #007cc4;
   margin-bottom: 0.5rem;
 }
 .cid-ul5Lr6VIel .main-title {
@@ -2413,7 +2413,7 @@ a {
   text-align: center;
 }
 .cid-ukZumECD3o .item-subtitle {
-  color: #982dfd;
+  color: #007cc4;
   text-align: center;
 }
 .cid-ukZumECD3o .custom-gradient {
@@ -2441,7 +2441,7 @@ a {
 #custom-html-6 .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -2584,7 +2584,7 @@ a {
   text-align: center;
 }
 .cid-ukV4SMYlnh .item-subtitle {
-  color: #982dfd;
+  color: #007cc4;
   text-align: center;
 }
 .cid-ukV4SMYlnh .custom-gradient {
@@ -4185,7 +4185,7 @@ blockquote {
 #custom-html-g .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -4304,7 +4304,7 @@ blockquote {
   margin: auto;
   display: inline-flex;
   font-size: 1.5rem;
-  color: #982dfd;
+  color: #007cc4;
   width: 25px;
   justify-content: center;
   align-items: center;
@@ -5922,7 +5922,7 @@ blockquote {
 #custom-html-o .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -7614,7 +7614,7 @@ blockquote {
 #custom-html-10 .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -7746,7 +7746,7 @@ blockquote {
 .cid-ulEDtleOy7 .mbr-iconfont {
   display: block;
   font-size: 2.5rem;
-  color: #982dfd;
+  color: #007cc4;
   margin-bottom: 0.5rem;
 }
 .cid-ulEDtleOy7 .main-title {
@@ -9452,7 +9452,7 @@ blockquote {
 #custom-html-18 .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -9584,7 +9584,7 @@ blockquote {
 .cid-ulED8eMWB3 .mbr-iconfont {
   display: block;
   font-size: 2.5rem;
-  color: #982dfd;
+  color: #007cc4;
   margin-bottom: 0.5rem;
 }
 .cid-ulED8eMWB3 .main-title {
@@ -11290,7 +11290,7 @@ blockquote {
 #custom-html-1h .scrolling-banner {
   position: relative;
   overflow: hidden;
-  background-color: #982dfd;
+  background-color: #007cc4;
   /* Background color for the banner */
   padding: 25px 0;
   /* Padding to adjust the vertical space */
@@ -11422,7 +11422,7 @@ blockquote {
 .cid-ulEDdHChRk .mbr-iconfont {
   display: block;
   font-size: 2.5rem;
-  color: #982dfd;
+  color: #007cc4;
   margin-bottom: 0.5rem;
 }
 .cid-ulEDdHChRk .main-title {
