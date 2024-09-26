@@ -1054,7 +1054,7 @@ body {
   border-radius: 10px;
 }
 .bg-primary {
-  background-color: #7311d0 !important;
+  background-color: #007cc4 !important;
 }
 .bg-success {
   background-color: #40b0bf !important;
@@ -1070,8 +1070,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #7311d0 !important;
-  border-color: #7311d0 !important;
+  background-color: #007cc4 !important;
+  border-color: #007cc4 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -1079,9 +1079,9 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #7311d0 !important;
-  border-color: #7311d0 !important;
-  box-shadow: #7311d0 2px 2px 20px 0px;
+  background-color: #007cc4 !important;
+  border-color: #007cc4 !important;
+  box-shadow: #007cc4 2px 2px 20px 0px;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
@@ -1195,7 +1195,7 @@ body {
   border-color: #000000 !important;
 }
 .btn-white {
-  color: #7311d0 !important;
+  color: #007cc4 !important;
   background-color: white;
 }
 .btn-white,
@@ -1221,8 +1221,8 @@ body {
 }
 .btn-white:hover,
 .btn-white:active {
-  color: #7311d0 !important;
-  box-shadow: #7311d0 2px 2px 20px 0px;
+  color: #007cc4 !important;
+  box-shadow: #007cc4 2px 2px 20px 0px;
 }
 .btn-black,
 .btn-black:active {
@@ -1249,7 +1249,7 @@ body {
 .btn-primary-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #7311d0;
+  color: #007cc4;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -1263,8 +1263,8 @@ body {
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #7311d0 !important;
-  border-color: #7311d0 !important;
+  background-color: #007cc4 !important;
+  border-color: #007cc4 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -1414,7 +1414,7 @@ body {
   border-color: #fafafa !important;
 }
 .text-primary {
-  color: #7311d0 !important;
+  color: #007cc4 !important;
 }
 .text-secondary {
   color: #982dfd !important;
@@ -1486,7 +1486,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-position: -10000px 1.2em;
 }
 .nav-tabs .nav-link.active {
-  color: #7311d0;
+  color: #007cc4;
 }
 .nav-tabs .nav-link:not(.active) {
   color: #232323;
@@ -1504,8 +1504,8 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-color: #212428;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #7311d0;
-  border-color: #7311d0;
+  background-color: #007cc4;
+  border-color: #007cc4;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -1513,7 +1513,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #7311d0;
+  color: #007cc4;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1551,7 +1551,7 @@ a:hover {
 .form-control:hover,
 .form-control:focus {
   box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.07) 0px 1px 3px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;
-  border-color: #7311d0 !important;
+  border-color: #007cc4 !important;
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Poppins', sans-serif;
@@ -1563,19 +1563,19 @@ a:hover {
   font-size: 1.5rem;
 }
 blockquote {
-  border-color: #7311d0;
+  border-color: #007cc4;
 }
 /* Forms */
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #7311d0;
+  background-color: #007cc4;
   color: #ffffff;
 }
 .jq-number__spin {
   transition: 0.25s ease;
 }
 .jq-number__spin:hover {
-  border-color: #7311d0;
+  border-color: #007cc4;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:after,
@@ -1587,14 +1587,14 @@ blockquote {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #7311d0;
-  border-bottom-color: #7311d0;
+  border-top-color: #007cc4;
+  border-bottom-color: #007cc4;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
   color: #ffffff !important;
-  background-color: #7311d0 !important;
+  background-color: #007cc4 !important;
   box-shadow: none !important;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
@@ -1649,8 +1649,8 @@ a {
   }
 }
 .cid-ukVfy4qze0 .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -1662,7 +1662,7 @@ a {
 }
 .cid-ukVfy4qze0 .dropdown-item:hover,
 .cid-ukVfy4qze0 .dropdown-item:focus {
-  background: #7311d0 !important;
+  background: #007cc4 !important;
   color: white !important;
 }
 .cid-ukVfy4qze0 .dropdown-item:first-child {
@@ -1701,7 +1701,7 @@ a {
   height: 2px;
   width: 0%;
   transition: all 0.3s;
-  background: #7311d0;
+  background: #007cc4;
 }
 .cid-ukVfy4qze0 .nav-link:hover:before {
   width: 100%;
@@ -2082,8 +2082,8 @@ a {
   top: 0;
 }
 .cid-ujA3KKs0ag .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -2417,8 +2417,8 @@ a {
   text-align: center;
 }
 .cid-ukZumECD3o .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -2588,8 +2588,8 @@ a {
   text-align: center;
 }
 .cid-ukV4SMYlnh .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -2602,7 +2602,7 @@ a {
 .cid-ukZfc4ipbY .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: "Moririse2" !important;
-  color: #7311d0;
+  color: #007cc4;
   margin-left: 1rem;
 }
 .cid-ukZfc4ipbY .panel-group,
@@ -2656,8 +2656,8 @@ a {
   top: 0;
 }
 .cid-ukZfc4ipbY .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -2751,8 +2751,8 @@ a {
   color: #ffffff;
 }
 .cid-ukZi7dsATb .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -3728,8 +3728,8 @@ blockquote {
   }
 }
 .cid-ukVfy4qze0 .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -3741,7 +3741,7 @@ blockquote {
 }
 .cid-ukVfy4qze0 .dropdown-item:hover,
 .cid-ukVfy4qze0 .dropdown-item:focus {
-  background: #7311d0 !important;
+  background: #007cc4 !important;
   color: white !important;
 }
 .cid-ukVfy4qze0 .dropdown-item:first-child {
@@ -3780,7 +3780,7 @@ blockquote {
   height: 2px;
   width: 0%;
   transition: all 0.3s;
-  background: #7311d0;
+  background: #007cc4;
 }
 .cid-ukVfy4qze0 .nav-link:hover:before {
   width: 100%;
@@ -4161,8 +4161,8 @@ blockquote {
   top: 0;
 }
 .cid-ul5t0MJK5V .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -4339,7 +4339,7 @@ blockquote {
 .cid-ul5wWMkFGc .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: "Moririse2" !important;
-  color: #7311d0;
+  color: #007cc4;
   margin-left: 1rem;
 }
 .cid-ul5wWMkFGc .panel-group,
@@ -4393,8 +4393,8 @@ blockquote {
   top: 0;
 }
 .cid-ul5wWMkFGc .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -4488,8 +4488,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ukZi7dsATb .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -5465,8 +5465,8 @@ blockquote {
   }
 }
 .cid-ul5xsHWxIR .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -5478,7 +5478,7 @@ blockquote {
 }
 .cid-ul5xsHWxIR .dropdown-item:hover,
 .cid-ul5xsHWxIR .dropdown-item:focus {
-  background: #7311d0 !important;
+  background: #007cc4 !important;
   color: white !important;
 }
 .cid-ul5xsHWxIR .dropdown-item:first-child {
@@ -5517,7 +5517,7 @@ blockquote {
   height: 2px;
   width: 0%;
   transition: all 0.3s;
-  background: #7311d0;
+  background: #007cc4;
 }
 .cid-ul5xsHWxIR .nav-link:hover:before {
   width: 100%;
@@ -5898,8 +5898,8 @@ blockquote {
   top: 0;
 }
 .cid-ul5xsIBTTy .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -6031,7 +6031,7 @@ blockquote {
 .cid-ul5xsK8Biz .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: "Moririse2" !important;
-  color: #7311d0;
+  color: #007cc4;
   margin-left: 1rem;
 }
 .cid-ul5xsK8Biz .panel-group,
@@ -6085,8 +6085,8 @@ blockquote {
   top: 0;
 }
 .cid-ul5xsK8Biz .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -6180,8 +6180,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ul5xsKGyDk .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -7157,8 +7157,8 @@ blockquote {
   }
 }
 .cid-ukVfy4qze0 .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -7170,7 +7170,7 @@ blockquote {
 }
 .cid-ukVfy4qze0 .dropdown-item:hover,
 .cid-ukVfy4qze0 .dropdown-item:focus {
-  background: #7311d0 !important;
+  background: #007cc4 !important;
   color: white !important;
 }
 .cid-ukVfy4qze0 .dropdown-item:first-child {
@@ -7209,7 +7209,7 @@ blockquote {
   height: 2px;
   width: 0%;
   transition: all 0.3s;
-  background: #7311d0;
+  background: #007cc4;
 }
 .cid-ukVfy4qze0 .nav-link:hover:before {
   width: 100%;
@@ -7590,8 +7590,8 @@ blockquote {
   top: 0;
 }
 .cid-ulbaRLKted .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -7855,8 +7855,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ulAHjeD4Yf .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -7869,7 +7869,7 @@ blockquote {
 .cid-ulbbkzbqPd .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: "Moririse2" !important;
-  color: #7311d0;
+  color: #007cc4;
   margin-left: 1rem;
 }
 .cid-ulbbkzbqPd .panel-group,
@@ -7923,8 +7923,8 @@ blockquote {
   top: 0;
 }
 .cid-ulbbkzbqPd .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -8018,8 +8018,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ukZi7dsATb .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -8995,8 +8995,8 @@ blockquote {
   }
 }
 .cid-ulAIHWbgfC .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -9008,7 +9008,7 @@ blockquote {
 }
 .cid-ulAIHWbgfC .dropdown-item:hover,
 .cid-ulAIHWbgfC .dropdown-item:focus {
-  background: #7311d0 !important;
+  background: #007cc4 !important;
   color: white !important;
 }
 .cid-ulAIHWbgfC .dropdown-item:first-child {
@@ -9047,7 +9047,7 @@ blockquote {
   height: 2px;
   width: 0%;
   transition: all 0.3s;
-  background: #7311d0;
+  background: #007cc4;
 }
 .cid-ulAIHWbgfC .nav-link:hover:before {
   width: 100%;
@@ -9428,8 +9428,8 @@ blockquote {
   top: 0;
 }
 .cid-ulAIHWNWvH .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -9693,8 +9693,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ulED93hSrC .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -9707,7 +9707,7 @@ blockquote {
 .cid-ulAIHZ40UN .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: "Moririse2" !important;
-  color: #7311d0;
+  color: #007cc4;
   margin-left: 1rem;
 }
 .cid-ulAIHZ40UN .panel-group,
@@ -9761,8 +9761,8 @@ blockquote {
   top: 0;
 }
 .cid-ulAIHZ40UN .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -9856,8 +9856,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ulAIHZRMZ6 .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -10833,8 +10833,8 @@ blockquote {
   }
 }
 .cid-ulAIP5bm8b .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -10846,7 +10846,7 @@ blockquote {
 }
 .cid-ulAIP5bm8b .dropdown-item:hover,
 .cid-ulAIP5bm8b .dropdown-item:focus {
-  background: #7311d0 !important;
+  background: #007cc4 !important;
   color: white !important;
 }
 .cid-ulAIP5bm8b .dropdown-item:first-child {
@@ -10885,7 +10885,7 @@ blockquote {
   height: 2px;
   width: 0%;
   transition: all 0.3s;
-  background: #7311d0;
+  background: #007cc4;
 }
 .cid-ulAIP5bm8b .nav-link:hover:before {
   width: 100%;
@@ -11266,8 +11266,8 @@ blockquote {
   top: 0;
 }
 .cid-ulAIP5JwM4 .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -11531,8 +11531,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ulEDesMTJZ .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -11545,7 +11545,7 @@ blockquote {
 .cid-ulAIP7T1so .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: "Moririse2" !important;
-  color: #7311d0;
+  color: #007cc4;
   margin-left: 1rem;
 }
 .cid-ulAIP7T1so .panel-group,
@@ -11599,8 +11599,8 @@ blockquote {
   top: 0;
 }
 .cid-ulAIP7T1so .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -11694,8 +11694,8 @@ blockquote {
   color: #ffffff;
 }
 .cid-ulAIP8qsoE .custom-gradient {
-  background-image: linear-gradient(90deg, #7311d0, #a74dfd);
-  text-shadow: 0 0 18px #7311d0;
+  background-image: linear-gradient(90deg, #007cc4, #a74dfd);
+  text-shadow: 0 0 18px #007cc4;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
