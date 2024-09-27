@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/osrsacco/
-    - /bin/cp osrs-accounts $DEPLOYPATH
+    - /bin/cp -R osrs-accounts $DEPLOYPATH
