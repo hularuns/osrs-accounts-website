@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/osrsacco/osrs-accounts/
-    - /bin/mv website/* $DEPLOYPATH
+    - /bin/mv website $DEPLOYPATH
