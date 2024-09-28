@@ -3,3 +3,13 @@
     height: 173px;
     object-fit: contain;
 }
+.custom-navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.custom-align {
+  display: flex;
+  align-items: center;
+}
