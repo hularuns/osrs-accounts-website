@@ -21,7 +21,10 @@
 .fa-gold {
   color: #f3c600 !important;
 }
-
+.emoji-img-wrapper {
+  display: inline-flex;
+  align-items: center;
+}
 .emoji-img {
   height: 25px !important;
   width: 25px !important;
