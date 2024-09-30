@@ -33,7 +33,9 @@
   display: block!important;
 }
 .feature-item {
-  display: block;  /* Makes sure each feature-item takes the full width of the column */
-  margin-bottom: 5px; /* Adds some spacing between items */
-  text-align: left; /* Ensures the content inside each feature-item is left-aligned */
+  display: flex;
+  align-items: center; 
+  justify-content: flex-start;
+  padding: 20px;
+  text-align: left; 
 }
