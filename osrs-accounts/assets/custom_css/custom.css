@@ -1,5 +1,5 @@
 .product-card-image{
-  height: 250px;
+  height: 450px;
   width: auto;
 }
 .banner-logo-image {
@@ -21,11 +21,13 @@
 .fa-gold {
   color: #f3c600 !important;
 }
-.emoji-img-wrapper {
-  display: inline-flex;
-  align-items: center;
-}
 .emoji-img {
   height: 25px !important;
   width: 25px !important;
+  float: left;
+  margin-right: 8px; 
+}
+
+.emoji-img-wrapper {
+  overflow: auto;
 }
