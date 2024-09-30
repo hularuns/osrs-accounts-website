@@ -17,3 +17,10 @@
 .fa-gold {
   color: #f3c600 !important;
 }
+
+.emoji-img {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+  margin-right: 3px;
+}
