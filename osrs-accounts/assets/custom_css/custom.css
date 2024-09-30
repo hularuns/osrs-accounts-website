@@ -1,8 +1,12 @@
-.product-card-image {
+.product-card-image{
+  height: 150px;
+  width: auto;
+}
+.banner-logo-image {
     width: 472px;
     height: 173px;
-    object-fit: contain;
 }
+
 .custom-navbar .container {
   display: flex;
   justify-content: space-between;
@@ -19,12 +23,6 @@
 }
 
 .emoji-img {
-  width: 25px;
-  height: auto;
-  margin-right: 8px;
-}
-.feature-item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 10px;
+  height: 25px !important;
+  width: 25px !important;
 }
