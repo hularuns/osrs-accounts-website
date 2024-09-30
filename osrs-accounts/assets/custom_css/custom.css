@@ -20,7 +20,11 @@
 
 .emoji-img {
   width: 25px;
-  height: 25px;
-  vertical-align: middle;
-  margin-right: 3px;
+  height: auto;
+  margin-right: 8px;
+}
+.feature-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
 }
