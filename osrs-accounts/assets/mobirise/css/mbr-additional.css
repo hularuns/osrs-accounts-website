@@ -4276,9 +4276,9 @@ blockquote {
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
-  vertical-align: middle;
+  vertical-align: left;
   white-space: nowrap;
-  color: #ffffff;
+  color: #dd1818;
 }
 .cid-ul5tWjDK4k .feature-item:hover {
   cursor: pointer;
