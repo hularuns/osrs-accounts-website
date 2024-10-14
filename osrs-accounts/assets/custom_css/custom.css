@@ -1,6 +1,7 @@
 .product-card-image{
   display: block;
   height: 250px;
+  width: auto;
 
 }
 .banner-logo-image {
