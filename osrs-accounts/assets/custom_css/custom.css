@@ -1,9 +1,10 @@
 .product-card-image {
   display: block;
   height: 250px;
-  width: auto;   
-  object-fit: cover; 
+  width: auto;    
+  object-fit: contain;  
 }
+
 
 .banner-logo-image {
     width: 472px;
