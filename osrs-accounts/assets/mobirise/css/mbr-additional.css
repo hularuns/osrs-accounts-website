@@ -2313,17 +2313,17 @@ a {
 .cid-ukZumECD3o .feature-item {
   display: inline-block;
   background-color: #010101;
-  border-radius: 10px;
-  border: 1px solid rgba(192, 236, 255, 0.05);
-  padding: 3px 20px;
+  /* border-radius: 10px;
+  border: 1px solid rgba(192, 236, 255, 0.05); */
+  padding: 3px 10px;
   margin-bottom: 3px;
   margin-right: 10px;
   font-size: 16px;
   line-height: 1.5;
-  text-align: center;
+  text-align: left;
   vertical-align: middle;
   white-space: nowrap;
-  color: #24be24;
+  color: #ffffff;
 }
 .cid-ukZumECD3o .feature-item:hover {
   cursor: pointer;
