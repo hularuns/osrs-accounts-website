@@ -2311,7 +2311,7 @@ a {
   position: relative;
 }
 .cid-ukZumECD3o .feature-item {
-  display: inline-block;
+  display: block; 
   background-color: #010101;
   /* border-radius: 10px;
   border: 1px solid rgba(192, 236, 255, 0.05); */
@@ -2320,7 +2320,7 @@ a {
   margin-right: 10px;
   font-size: 16px;
   line-height: 1.5;
-  text-align: left;
+  text-align: left; /* Aligns text to the left */
   vertical-align: middle;
   white-space: nowrap;
   color: #ffffff;
