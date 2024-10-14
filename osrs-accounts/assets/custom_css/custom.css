@@ -32,10 +32,3 @@
   overflow: auto;
   display: block!important;
 } */
-.test-item {
-  display: flex;
-  align-items: center !important; /* Vertically centers the content */
-  justify-content: center; /* Horizontally centers the content */
-  padding: 10px;
-  margin-bottom: 10px; /* Adds space between each box */
-}
