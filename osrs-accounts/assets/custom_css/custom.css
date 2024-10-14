@@ -23,18 +23,18 @@
 }
 .emoji-img {
   height: 25px !important;
-  width: 25px !important;
+  width: 15px !important;
   float: left;
-  margin-right: 8px; 
+  margin-right: 8px !important; 
 }
 
-.emoji-img-wrapper {
+/* .emoji-img-wrapper {
   overflow: auto;
   display: block!important;
-}
+} */
 .feature-item {
   display: flex;
-  align-items: center; 
+  align-items:start; 
   justify-content: flex-start;
   text-align: left; 
 }
