@@ -1,5 +1,6 @@
 .product-card-image{
-  height: 450;
+  display: block;
+  height: 300;
   width:100px ;
 }
 .banner-logo-image {
