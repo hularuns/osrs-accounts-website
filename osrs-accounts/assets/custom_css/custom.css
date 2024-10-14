@@ -32,9 +32,9 @@
   overflow: auto;
   display: block!important;
 } */
-.feature-item {
+.test-item {
   display: flex;
-  align-items: center; /* Vertically centers the content */
+  align-items: center !important; /* Vertically centers the content */
   justify-content: center; /* Horizontally centers the content */
   padding: 10px;
   margin-bottom: 10px; /* Adds space between each box */
